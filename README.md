@@ -6,13 +6,12 @@
 <div class="container-fluid">
   <h2>Bienvenidos a mi perfil</h2>
   <br>
-  <h3>Mi nombre es Valentina Pereyra, soy Desarrollador de Software Full Stack y estudiante de Ing. de Producción.</h3>
+  <h3>Mi nombre es Valentina Pereyra, soy estudiante de Ingenieria de Producción y Desarrollador de Software Full Stack.</h3>
   <br>
-  <p>- 🔭 Me gusta aprender nuevas habilidades y considero que me adapto rápido a los cambios.</p>
-  <p>- 👪👨‍👧‍👦 Disfruto el trabajo en equipo y me caracterizo por mi dedicación y compromiso personal.</p>
-  <p>- 🌎 Me encantaría poder viajar por el mundo mientras trabajo, y conocer culturas y personas diferentes.</p>
-  <p>- 👯 Me gustaría formar parte de una empresa que fomente la capacitación constante de sus empleados para continuar adquiriendo nuevos conocimientos.</p>
-  <p>- ✔️ En mi tiempo libre me gusta leer libros, hacer ejercicio, compartir con mi familia y amigos.</p>
+  <p>- 🔭 Actualmente me encuentro mejorando mis habilidades en ciencia de datos con tecnologias SQL y Python, tambien realizando proyectos con softwares para modelado predictivo (R, Pyhton, Matlab )</p>
+  <p>- 🌎 Me gustaría formar parte de una empresa que me permita crecer intelectualmente y emocionalmente, en la cual me encuentre con retos constantes y la posibilidad de mejorar mi entorno.</p>
+  <p>- 👯 En mi tiempo libre me gusta hacer ejercicio, disfrutar de la naturaleza, mi actividad favorita es hacer trail running con familia y amigos.</p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1aFXxgWA3aOuGQJh4Q_PwdHF5DDjcV-tmew&usqp=CAU">
   <p>- 📫 Puedes contactarme en: <a href="https://www.linkedin.com/in/valentina-pereyra/" target="_blank">LinkedIn</a></p>
   <br>
   <h2>Tecnologías</h2>
